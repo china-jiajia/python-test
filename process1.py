@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding utf8 -*-
 
+# 存储进程输出 Queue
+
 import  multiprocessing as mp
 
 def job(q):
