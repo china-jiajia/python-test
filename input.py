@@ -18,5 +18,5 @@ if a_input == 1:
 elif a_input == 2:
     print('See you next time')
 else:
-    print('Goog luck')
+    print('Good luck')
 
