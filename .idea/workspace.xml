@@ -2,44 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="230b429f-4535-4577-ac45-4d8ed43d4bc4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tkinter.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Lock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Threading.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bijiao.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/class.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/continue-break.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/copy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/def.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/def1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/import.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/input.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/list-zip.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/list.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/md1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modul.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/more-list.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/multiprocessing-多线程.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my file.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/new-module.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pickle.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/print-chinases.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process-pool.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process-queue.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/process2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/read-file.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shared-memory.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/threading-GIL.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/threading-join.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/threading-lock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tiknter.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/try.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tuple-list.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/while-for.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/while.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +15,7 @@
     <SUITE FILE_PATH="coverage/python_test$Lock.coverage" NAME="Lock Coverage Results" MODIFIED="1504792571733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$threading_GIL.coverage" NAME="threading-GIL Coverage Results" MODIFIED="1504796082590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$list_zip.coverage" NAME="list-zip Coverage Results" MODIFIED="1503414481874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_test$threading_join.coverage" NAME="threading-join Coverage Results" MODIFIED="1504794267658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_test$threading_join.coverage" NAME="threading-join Coverage Results" MODIFIED="1505015769213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$Threading.coverage" NAME="Threading Coverage Results" MODIFIED="1504793369419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$more_list.coverage" NAME="more-list Coverage Results" MODIFIED="1503328835353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$process.coverage" NAME="process Coverage Results" MODIFIED="1503759494243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -76,16 +38,16 @@
     <SUITE FILE_PATH="coverage/python_test$modul.coverage" NAME="modul Coverage Results" MODIFIED="1503711667401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$copy.coverage" NAME="copy Coverage Results" MODIFIED="1503415863044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_test$process_queue.coverage" NAME="process-queue Coverage Results" MODIFIED="1504795547858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_test$process2.coverage" NAME="process2 Coverage Results" MODIFIED="1503763790466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_test$process_pool.coverage" NAME="process-pool Coverage Results" MODIFIED="1503766770638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_test$process2.coverage" NAME="process2 Coverage Results" MODIFIED="1505015694635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_test$process_pool.coverage" NAME="process-pool Coverage Results" MODIFIED="1505015712506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tkinter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tkinter.py">
+      <file leaf-file-name="threading-join.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/threading-join.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="360">
+              <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -138,8 +100,8 @@
         <option value="$PROJECT_DIR$/threading-GIL.py" />
         <option value="$PROJECT_DIR$/threading-lock.py" />
         <option value="$PROJECT_DIR$/new-lock.py" />
-        <option value="$PROJECT_DIR$/tkinter.py" />
         <option value="$PROJECT_DIR$/tkhello.py" />
+        <option value="$PROJECT_DIR$/tkinter.py" />
       </list>
     </option>
   </component>
@@ -150,10 +112,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="175" />
-    <option name="y" value="72" />
-    <option name="width" value="1062" />
-    <option name="height" value="684" />
+    <option name="x" value="57" />
+    <option name="y" value="47" />
+    <option name="width" value="1192" />
+    <option name="height" value="753" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -173,7 +135,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +147,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tkinter">
+  <component name="RunManager" selected="Python.threading-join">
     <configuration name="new-lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,7 +186,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="process-queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="process-pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,12 +199,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process-queue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process-pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="threading-GIL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="process2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -255,12 +217,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading-GIL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/process2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="threading-lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="threading-join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -273,7 +235,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading-lock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threading-join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,19 +259,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.process-queue" />
-      <item index="1" class="java.lang.String" itemvalue="Python.threading-GIL" />
-      <item index="2" class="java.lang.String" itemvalue="Python.threading-lock" />
-      <item index="3" class="java.lang.String" itemvalue="Python.new-lock" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tkinter" />
+      <item index="0" class="java.lang.String" itemvalue="Python.new-lock" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tkinter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.process2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.process-pool" />
+      <item index="4" class="java.lang.String" itemvalue="Python.threading-join" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tkinter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.new-lock" />
-        <item index="2" class="java.lang.String" itemvalue="Python.threading-lock" />
-        <item index="3" class="java.lang.String" itemvalue="Python.threading-GIL" />
-        <item index="4" class="java.lang.String" itemvalue="Python.process-queue" />
+        <item index="0" class="java.lang.String" itemvalue="Python.threading-join" />
+        <item index="1" class="java.lang.String" itemvalue="Python.process-pool" />
+        <item index="2" class="java.lang.String" itemvalue="Python.process2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tkinter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.new-lock" />
       </list>
     </recent_temporary>
   </component>
@@ -327,20 +289,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="175" y="72" width="1062" height="684" extended-state="0" />
-    <editor active="true" />
+    <frame x="57" y="47" width="1192" height="753" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15348399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22483222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3171806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39317775" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -363,20 +324,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tkinter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tkhello.py" />
     <entry file="file://$PROJECT_DIR$/tkinter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -386,7 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,7 +357,6 @@
     <entry file="file://$PROJECT_DIR$/dictionary.py" />
     <entry file="file://$PROJECT_DIR$/new-md.py" />
     <entry file="file://$PROJECT_DIR$/md1.py" />
-    <entry file="file://$PROJECT_DIR$/new-module.py" />
     <entry file="file://$PROJECT_DIR$/import.py" />
     <entry file="file://$PROJECT_DIR$/continue-break.py" />
     <entry file="file://$PROJECT_DIR$/eee" />
@@ -414,7 +364,6 @@
     <entry file="file://$PROJECT_DIR$/list-zip.py" />
     <entry file="file://$PROJECT_DIR$/copy.py" />
     <entry file="file://$PROJECT_DIR$/tiknter.py" />
-    <entry file="file://$PROJECT_DIR$/multiprocessing-多线程.py" />
     <entry file="file://$PROJECT_DIR$/tuple-list.py" />
     <entry file="file://$PROJECT_DIR$/modul.py" />
     <entry file="file://$PROJECT_DIR$/123.py" />
@@ -422,8 +371,6 @@
     <entry file="file://$PROJECT_DIR$/pickle.py" />
     <entry file="file://$PROJECT_DIR$/process.py" />
     <entry file="file://$PROJECT_DIR$/process1.py" />
-    <entry file="file://$PROJECT_DIR$/process2.py" />
-    <entry file="file://$PROJECT_DIR$/process-pool.py" />
     <entry file="file://$PROJECT_DIR$/shared-memory.py" />
     <entry file="file://$PROJECT_DIR$/Lock.py" />
     <entry file="file://$PROJECT_DIR$/Threading.py" />
@@ -434,7 +381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/threading-join.py" />
     <entry file="file://$PROJECT_DIR$/process-queue.py" />
     <entry file="file://$PROJECT_DIR$/threading-GIL.py" />
     <entry file="file://$PROJECT_DIR$/new-lock.py" />
@@ -443,7 +389,49 @@
     <entry file="file://$PROJECT_DIR$/tkinter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+          <caret line="28" column="19" lean-forward="false" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiprocessing-多线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print-chinases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new-module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/process-pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threading-join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="23" />
           <folding />
         </state>
       </provider>
