@@ -149,11 +149,16 @@ y=2*x+1
 
 
 #参数组: **字典, *列表
-def test(x,**kwargs):
-    print(x)
-    # print(args)     #这里接收的是列表,只能使用位置参数
-    # print(kwargs[0])
-    print(kwargs)
+# def test(x,**kwargs):
+    # print(x)
+    # # print(args)     #这里接收的是列表,只能使用位置参数
+    # # print(kwargs[0])
+    # print(kwargs)
+
+
+# *args       #数据保存为元祖
+# **kwargs    #数据保存为字典
+
 
 
 # test(1,2,3,4,5,6)
