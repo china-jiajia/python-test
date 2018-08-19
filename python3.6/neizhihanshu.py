@@ -172,21 +172,116 @@ __mtime__ = '2018/8/12'
 
 
 # 最终效果:
-people=[
-    {'name':'alex','age':1000},
-    {'name':'wupeiqi','age':10000},
-    {'name':'yuanhao','age':9000},
-    {'name':'linhaifeng','age':18},
-
-]
+# people=[
+#     {'name':'alex','age':1000},
+#     {'name':'wupeiqi','age':10000},
+#     {'name':'yuanhao','age':9000},
+#     {'name':'linhaifeng','age':18},
+#
+# ]
 
 # print(max(people))      #字典没办法进行比较
 # max(people,key=lambda dic:dic['age'])
 
-print(max(people,key=lambda dic:dic['age']))
+# print(max(people,key=lambda dic:dic['age']))
 
 # ret=[]
 # for item in people:
 #     ret.append(item['age'])
 # print(ret)
 # max(ret)
+
+
+
+
+
+
+# print(ord('a'))
+#
+# print(pow(2,3))         #具体函数的次方
+# print(pow(3,3,2))       #3的3次方取余
+#
+# l=[1,2,3,4]
+# print(list(reversed(l)))
+# print(l)
+#
+#
+# print(round(3.5))
+#
+#
+# print(set('hello'))
+#
+# l='hello'
+# # print(l[3:5])
+# s1=slice(3,5)
+# s2=slice(1,4,2)
+# print(l[s1])
+# print(l[s2])
+
+
+
+# people=[
+#     {'name':'alex','age':1000},
+#     {'name':'wupeiqi','age':10000},
+#     {'name':'yuanhao','age':9000},
+#     {'name':'linhaifeng','age':18},
+#
+# ]
+#
+#
+# # l=[3,1,6,7,4,2]
+# # l1=[3,1,'a',7,4,2]
+# # print(sorted(l))
+# # print(sorted(l1))       #排序本质就是在比较大小,不同类型之间不可以比较大小
+#
+# print(sorted(people,key=lambda dic:dic['age']))
+
+
+# name_dic={
+#     "abyuanhao":11900,
+#     "alex":1200,
+#     "wupeiqi":300
+# }
+#
+# print(sorted(name_dic,key=lambda key:name_dic[key]))
+# print(sorted(zip(name_dic.values(),name_dic.keys())))
+
+
+print(str('1'))
+print(type(str({'a':1})))
+dic_str=str({'a':1})
+print(type(eval(dic_str)))
+
+
+tuple()     #元祖
+
+l=[1,2,3,4]
+print(sum(l))
+print(sum(range(5)))
+print(type(l))
+
+
+msg='123'
+
+if type(msg) is str:
+    msg=int(msg)
+    res=msg+1
+    print(res)
+
+
+
+def test():
+    msg='和我符合欧我环境佛ID回家我集合分'
+    print(locals())
+    print(vars())
+
+test()
+
+
+print(vars(int))
+
+
+# import----->sys------->__import__()
+# import  'test'  #会报错,不能导入字符串类型
+module_name='test'
+m=__import__(module_name)   #调用的是字符串类型
